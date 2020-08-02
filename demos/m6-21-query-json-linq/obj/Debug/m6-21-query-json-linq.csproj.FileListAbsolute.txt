@@ -1,0 +1,1 @@
+D:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m6-21-query-json-linq\bin\Debug\m6-21-query-json-linq.exe.config
