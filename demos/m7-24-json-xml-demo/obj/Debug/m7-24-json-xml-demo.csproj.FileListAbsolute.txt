@@ -1,8 +1,0 @@
-D:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m7-24-json-xml-demo\bin\Debug\m7-24-json-xml-demo.exe.config
-D:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m7-24-json-xml-demo\bin\Debug\m7-24-json-xml-demo.exe
-D:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m7-24-json-xml-demo\bin\Debug\m7-24-json-xml-demo.pdb
-D:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m7-24-json-xml-demo\bin\Debug\Newtonsoft.Json.dll
-D:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m7-24-json-xml-demo\bin\Debug\Newtonsoft.Json.xml
-D:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m7-24-json-xml-demo\obj\Debug\m7-24-json-xml-demo.csprojResolveAssemblyReference.cache
-D:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m7-24-json-xml-demo\obj\Debug\m7-24-json-xml-demo.exe
-D:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m7-24-json-xml-demo\obj\Debug\m7-24-json-xml-demo.pdb
