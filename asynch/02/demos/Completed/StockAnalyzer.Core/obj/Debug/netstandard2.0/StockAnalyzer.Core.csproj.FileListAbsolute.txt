@@ -1,0 +1,7 @@
+C:\Users\kia.heydari\PRACS\c#P\getting-started-with-asynchronous-programming-dotnet\02\demos\Completed\StockAnalyzer.Core\bin\Debug\netstandard2.0\StockAnalyzer.Core.deps.json
+C:\Users\kia.heydari\PRACS\c#P\getting-started-with-asynchronous-programming-dotnet\02\demos\Completed\StockAnalyzer.Core\bin\Debug\netstandard2.0\StockAnalyzer.Core.dll
+C:\Users\kia.heydari\PRACS\c#P\getting-started-with-asynchronous-programming-dotnet\02\demos\Completed\StockAnalyzer.Core\bin\Debug\netstandard2.0\StockAnalyzer.Core.pdb
+C:\Users\kia.heydari\PRACS\c#P\getting-started-with-asynchronous-programming-dotnet\02\demos\Completed\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.AssemblyInfoInputs.cache
+C:\Users\kia.heydari\PRACS\c#P\getting-started-with-asynchronous-programming-dotnet\02\demos\Completed\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.AssemblyInfo.cs
+C:\Users\kia.heydari\PRACS\c#P\getting-started-with-asynchronous-programming-dotnet\02\demos\Completed\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.dll
+C:\Users\kia.heydari\PRACS\c#P\getting-started-with-asynchronous-programming-dotnet\02\demos\Completed\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.pdb
